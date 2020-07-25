@@ -1,3 +1,3 @@
-# Welcome to my blog
+# I am testing this course don't mind me 
 
-I'm glad you are here. I plan to talk about ...
+Hello mars.
